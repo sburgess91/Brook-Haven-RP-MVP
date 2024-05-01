@@ -52,8 +52,8 @@ Material:
     - _Surface: 1
     - _ZWrite: 0
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 0.20392157}
-    - _Color: {r: 1, g: 1, b: 1, a: 0.20392157}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 0.19215687}
+    - _Color: {r: 1, g: 1, b: 1, a: 0.19215687}
   m_BuildTextureStacks: []
 --- !u!114 &6016931623208426314
 MonoBehaviour:
