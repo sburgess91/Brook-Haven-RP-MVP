@@ -16,9 +16,10 @@ MonoBehaviour:
   _publishedId: 
   _worldPrefab: {fileID: 9171886453793455768, guid: 569fdf5ca373dfb43bac53ec5237b9a6,
     type: 3}
-  _scenePrefab: {fileID: 8457444051872364791, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+  _scenePrefab: {fileID: 2213864134323379125, guid: f15dc7c3559494a40a84c9756173e933,
     type: 3}
-  _uiFactory: {fileID: 0}
+  _uiFactory: {fileID: -2017830929143987780, guid: 4cf273075ab1c4940ac871bf57acf463,
+    type: 3}
   _hideVirtualPlayerScenes: 1
   _scenes:
   - Name: Room

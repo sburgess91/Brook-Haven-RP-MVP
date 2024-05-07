@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="UnityEngine.UIElements"
+    xmlns:hr="Highrise.UI"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd"
+>
+
+  <hr:UILuaView class="role-selection-view">
+  <Button name="nurseButton" text="Nurse" />
+  <Button name="doctorButton" text="Doctor" />
+  <Button name="policeOfficerButton" text="Police Officer" />
+  <Button name="criminalButton" text="Criminal" />
+  <Button name="parkRangerButton" text="Park Ranger" />
+  <Button name="cleanerButton" text="Cleaner" />
+  <Button name="cashierButton" text="Cashier" />
+  </hr:UILuaView>
+
+</UXML>

@@ -1,0 +1,26 @@
+/* RoleSelectionView style sheet */
+
+.role-selection-view {
+    /* Add styles for the RoleSelectionView container */
+    /* Example: Set background color and padding */
+    background-color: #FFFFFF; /* White background */
+    padding: 20px; /* Add padding around the container */
+}
+
+/* Style for role selection buttons */
+.role-selection-view Button {
+    /* Add styles for role selection buttons */
+    /* Example: Set button background color and text color */
+    background-color: #4CAF50; /* Green background */
+    color: #FFFFFF; /* White text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Add padding inside the button */
+    margin: 5px; /* Add margin between buttons */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.role-selection-view Button:hover {
+    /* Add styles for button hover state */
+    /* Example: Darken button color on hover */
+    background-color: #45a049; /* Darker green background */
+}
